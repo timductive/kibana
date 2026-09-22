@@ -1,5 +1,7 @@
 Lens is a visualization editor allowing to quickly and easily configure compelling visualizations to use on dashboards and canvas workpads.
 
+Contributing to Lens itself? See [AGENTS.md](./AGENTS.md) for the editor-to-render pipeline and guidance on which stage a given fix belongs in.
+
 # Lens Embedding
 
 It's possible to embed Lens visualizations in other apps using `EmbeddableComponent` and `navigateToPrefilledEditor`

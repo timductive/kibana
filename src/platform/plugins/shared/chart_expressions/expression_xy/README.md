@@ -6,6 +6,7 @@ Expression XY plugin adds a `xy` renderer and function to the expression plugin.
 
 - [XY axis format language](./CONTEXT.md)
 - [Axis-owned format policy decision](./docs/adr/0001_axis_owned_format_policy.md)
+- [Agent notes: where a fix belongs in this plugin](./AGENTS.md)
 
 ### Axis-owned formatting
 
